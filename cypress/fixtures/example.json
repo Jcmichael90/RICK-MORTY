@@ -1,0 +1,17 @@
+{
+  "characterName": "[data-test-id='characterName']",
+  "allLocations": "[data-test-id='locationList']",
+  "firstName": "Beth",
+  "lastName": "Sanchez",
+  "invalidName": "Mathew",
+  "favorites": "[data-test-id='list-Favorites']",
+  "list": "[data-test-id='list-List']",
+  "location": ".forms_selectWrapper__14V_D > .forms_defaultInput__3F6Ma",
+  "container": ".container > :nth-child(2)",
+  "beth": ":nth-child(1) > .CharacterListItem_info__WheLW > .CharacterListItem_name__2IwyZ",
+  "sanchez": "[data-test-id='character-Beth-Sanchez'] > .CharacterListItem_info__WheLW > .CharacterListItem_name__2IwyZ",
+  "mytholog": ":nth-child(3) > .CharacterListItem_info__WheLW > .CharacterListItem_name__2IwyZ",
+  "smith": ":nth-child(2) > .CharacterListItem_info__WheLW > .CharacterListItem_name__2IwyZ"
+  
+
+}
